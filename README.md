@@ -217,4 +217,3 @@ npm run build
 npm start
 ```
 
-**Ready for immediate deployment!**
